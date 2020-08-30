@@ -40,3 +40,5 @@
 - pandas
 - matplotlib
 - seaborn
+
+## Статус проекта: Завершён

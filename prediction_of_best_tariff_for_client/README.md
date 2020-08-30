@@ -27,3 +27,5 @@
 - matplotlib
 - seaborn
 - joblib
+
+## Статус проекта: Завершён

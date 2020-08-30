@@ -30,3 +30,5 @@
 - matplotlib
 - scipy
 - seaborn
+
+## Статус проекта: Завершён

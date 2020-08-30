@@ -55,3 +55,5 @@
 - pandas
 - matplotlib
 - scipy
+
+## Статус проекта: Завершён
